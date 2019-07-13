@@ -1,1 +1,1 @@
-a new test commit
+Smashing!
