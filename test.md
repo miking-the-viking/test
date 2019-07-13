@@ -1,1 +1,1 @@
-Smashing! Indubitibly!
+a new test commit
